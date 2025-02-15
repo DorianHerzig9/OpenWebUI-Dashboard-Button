@@ -21,7 +21,7 @@ Fügt einen Button zum Dashboard von Open WebUI hinzu, der KI-Outputs ausliest u
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/5f718ec4-87c0-4c7d-8c25-11df4c641d9d)
+<img width="251" alt="image" src="https://github.com/user-attachments/assets/cbaae841-eb4c-4877-a8c3-66cad2af1330" />
 
 ## ⚠️ Sicherheitswarnung! ⚠️
 Violentmonkey ist eine leistungsstarke Browsererweiterungen, die die Ausführung von Benutzerskripten auf Webseiten ermöglichen. Sie können jedoch böswillig ausgenutzt werden, daher ist es wichtig, nur Skripte aus vertrauenswürdigen Quellen zu installieren. Achten Sie auf die Daten, auf die Skripte zugreifen und sie verändern können!
