@@ -1,7 +1,7 @@
 # OpenWebUI-Dashboard-Button
 Fügt einen Button zum Dashboard von Open WebUI hinzu, der KI-Outputs ausliest und herunterlädt
 
-[![Static Badge](https://img.shields.io/badge/Install-Script-dark_green?style=for-the-badge&color=dark_green)](https://github.com/DeinBenutzername/OpenWebUI-Chat-Download-Button/raw/main/openwebui-chat-download-button.user.js)
+[![Static Badge](https://img.shields.io/badge/Install-Script-dark_green?style=for-the-badge&color=dark_green)](https://github.com/DorianHerzig9/OpenWebUI-Dashboard-Button/raw/refs/heads/main/open-ui-chat-download-button.user.js)
 
 ## Funktionen
 
@@ -12,7 +12,7 @@ Fügt einen Button zum Dashboard von Open WebUI hinzu, der KI-Outputs ausliest u
 ## Installation
 
 1. Installiere eine UserScript-Manager-Erweiterung wie [Violentmonkey](https://violentmonkey.github.io/#installation).
-2. Klicke [hier](https://github.com/DeinBenutzername/OpenWebUI-Chat-Download-Button/raw/main/openwebui-chat-download-button.user.js), um das Script zu installieren.
+2. Klicke [hier](https://github.com/DorianHerzig9/OpenWebUI-Dashboard-Button/raw/refs/heads/main/open-ui-chat-download-button.user.js), um das Script zu installieren.
 
 ## Nutzung
 
