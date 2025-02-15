@@ -17,5 +17,4 @@ Die Änderungen werden dann mit **`Strg + S`** oder über die Schaltfläche **"S
 
 Video:
 
-![IInstallation Guide] (https://img.youtube.com/vi/51N1Tk5KWZE/3.jpg)](https://youtu.be/51N1Tk5KWZE)
-
+[![Installation Guide](https://img.youtube.com/vi/51N1Tk5KWZE/3.jpg)](https://youtu.be/51N1Tk5KWZE)
