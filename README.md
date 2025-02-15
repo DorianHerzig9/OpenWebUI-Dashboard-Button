@@ -26,14 +26,6 @@ Fügt einen Button zum Dashboard von Open WebUI hinzu, der KI-Outputs ausliest u
 
 ![image](https://github.com/user-attachments/assets/5f718ec4-87c0-4c7d-8c25-11df4c641d9d)
 
-## Hinweis
-
-**Hinweis: Dieses Script wird unter der MIT-Lizenz bereitgestellt.**
-
-Dieses Script wird ohne jegliche Garantie bereitgestellt und unterliegt den Bedingungen der MIT-Lizenz.
-
-Bitte nutze dieses Script verantwortungsvoll und stelle sicher, dass du alle geltenden Vorschriften und Nutzungsbedingungen einhältst. Der Autor übernimmt keine Haftung für Schäden oder Konsequenzen, die sich aus der Nutzung oder dem Missbrauch des Scripts ergeben.
-
 ## Autor
 
 - **Dorian Herzig** - [GitHub Profil](https://github.com/DeinBenutzername)
