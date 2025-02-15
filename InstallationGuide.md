@@ -16,5 +16,5 @@ Die Änderungen werden dann mit **`Strg + S`** oder über die Schaltfläche **"S
  <img width="698" alt="image" src="https://github.com/user-attachments/assets/d555f4d3-79db-4ea1-90d9-f073d4c85832" />
 
 Video:
-[![IInstallation Guide] (https://img.youtube.com/vi/51N1Tk5KWZE/3.jpg)](https://youtu.be/51N1Tk5KWZE)
+![IInstallation Guide] (https://img.youtube.com/vi/51N1Tk5KWZE/3.jpg)](https://youtu.be/51N1Tk5KWZE)
 
