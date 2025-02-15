@@ -19,8 +19,8 @@ Fügt einen Button zum Dashboard von Open WebUI hinzu, der KI-Outputs ausliest u
 
 ## Nutzung
 
-1. Navigiere zu einer Open WebUI Konversation (z. B. http://localhost:3000/ oder http://localhost:8080/).
-2. Der Button mit der Beschriftung "📥 KI Outputs" befindet sich in der oberen Leiste der Chatansicht.
+1. Navigiere zu der definierten Open WebUI Konversation.
+2. Der Button mit der Beschriftung "📥 KI Outputs" befindet sich in Chatbox (wie auf dem Screenshot zu sehen).
 3. Klicke auf den Button:
    - Wähle "d" für Download: Ein ZIP-Archiv mit den Antworten wird heruntergeladen.
    - Wähle "c" für Kopieren: Die Antworten werden in die Zwischenablage kopiert.
