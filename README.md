@@ -11,7 +11,7 @@ Fügt einen Button zum Dashboard von Open WebUI hinzu, der KI-Outputs ausliest u
 
 ## Installation
 
-1. Installiere eine UserScript-Manager-Erweiterung wie [Violentmonkey](https://violentmonkey.github.io/#installation).
+1. Instalieren Sie [Violentmonkey](https://violentmonkey.github.io/#installation) um die Extantion zu verwenden.
 2. Klicke [hier](https://github.com/DorianHerzig9/OpenWebUI-Dashboard-Button/raw/refs/heads/main/open-ui-chat-download-button.user.js), um das Script zu installieren.
 
 ## Nutzung
