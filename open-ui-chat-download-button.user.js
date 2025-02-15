@@ -6,7 +6,6 @@
 // @description  14.2.2025, 22:14:28
 // @author       Dorian Herzig
 // @match        http://localhost:3000/*
-// @match        http://localhost:8080/*
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
 // ==/UserScript==
