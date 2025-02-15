@@ -37,8 +37,3 @@ Bitte nutze dieses Script verantwortungsvoll und stelle sicher, dass du alle gel
 ## Autor
 
 - **Dorian Herzig** - [GitHub Profil](https://github.com/DeinBenutzername)
-
-## Zusätzliches Tool
-
-Falls du eine Alternative bevorzugst, gibt es auch ein Python-Skript zur Datenextraktion in meinem Repository: [Open WebUI Chat Downloader (Python)](https://github.com/DeinBenutzername/OpenWebUI-Chat-Downloader)
-
