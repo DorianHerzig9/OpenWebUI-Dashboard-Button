@@ -60,11 +60,11 @@
     async function downloadAsZip(assistantMessages, conversationTitle) {
         const zip = new JSZip();
         assistantMessages.forEach((content, index) => {
-            zip.file(`response_${index + 1}.txt`, content);
+            zip.file(`response_${index + 1}.md`, content);
         });
 
         const allMessages = assistantMessages.join('\n\n');
-        zip.file('all_responses.txt', allMessages);
+        zip.file('all_responses.md', allMessages);
 
         const zipBlob = await zip.generateAsync({ type: 'blob' });
         const urlBlob = URL.createObjectURL(zipBlob);
