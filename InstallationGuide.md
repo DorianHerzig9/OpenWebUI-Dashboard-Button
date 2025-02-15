@@ -14,7 +14,7 @@ Die Änderungen werden dann mit **`Strg + S`** oder über die Schaltfläche **"S
 
 6. Fals die Instalation erfolgreich war, sollte dieser Button auf dem Dashbord zu sehen sein.
  <img width="698" alt="image" src="https://github.com/user-attachments/assets/d555f4d3-79db-4ea1-90d9-f073d4c85832" />
+ 
 
 Video:
-
 [![Installation Guide](https://img.youtube.com/vi/51N1Tk5KWZE/3.jpg)](https://youtu.be/51N1Tk5KWZE)
