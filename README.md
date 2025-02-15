@@ -1,8 +1,6 @@
 # OpenWebUI-Dashboard-Button
 Fügt einen Button zum Dashboard von Open WebUI hinzu, der KI-Outputs ausliest und herunterlädt
 
-[![Static Badge](https://img.shields.io/badge/Install-Script-dark_green?style=for-the-badge&color=dark_green)](https://github.com/DorianHerzig9/OpenWebUI-Dashboard-Button/raw/refs/heads/main/open-ui-chat-download-button.user.js)
-
 ## Funktionen
 
 - Lädt alle KI-Antworten aus einer Open WebUI-Konversation als ZIP-Archiv herunter.
@@ -11,11 +9,7 @@ Fügt einen Button zum Dashboard von Open WebUI hinzu, der KI-Outputs ausliest u
 
 ## Installation
 
-1. Instalieren Sie [Violentmonkey](https://violentmonkey.github.io/#installation) um die Extension zu verwenden.
-2. Klicke [hier](https://github.com/DorianHerzig9/OpenWebUI-Dashboard-Button/raw/refs/heads/main/open-ui-chat-download-button.user.js), um das Script zu installieren.
-3. Verwenden Sie ihre eigene Base-URL und ersetzen sie die durch die rot markierte auf dem Bild:
-   <img width="659" alt="image" src="https://github.com/user-attachments/assets/778dbbbe-3c3e-4418-b96d-585b6132208c" />
-
+[![Static Badge](https://img.shields.io/badge/Install-Script-dark_green?style=for-the-badge&color=dark_green)](https://github.com/DorianHerzig9/OpenWebUI-Dashboard-Button/raw/refs/heads/main/open-ui-chat-download-button.user.js)
 
 ## Nutzung
 
