@@ -11,7 +11,7 @@ Fügt einen Button zum Dashboard von Open WebUI hinzu, der KI-Outputs ausliest u
 
 [![Static Badge](https://img.shields.io/badge/Installation%20Guide-%235D3FD3?style=flat&logo=readthedocs&logoColor=white)](https://github.com/DorianHerzig9/OpenWebUI-Dashboard-Button/blob/main/InstallationGuide.md)
 
-### Installationsvideo:
+Installationsvideo:
 
 <a href="https://youtu.be/51N1Tk5KWZE" target="_blank">
     <img src="https://img.youtube.com/vi/51N1Tk5KWZE/maxresdefault.jpg" alt="Installation Guide" width="300">
