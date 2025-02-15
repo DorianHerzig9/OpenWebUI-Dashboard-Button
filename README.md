@@ -33,6 +33,6 @@ Installationsvideo:
 Violentmonkey ist eine Browsererweiterungen, die die Ausführung von Benutzerskripten auf Webseiten ermöglichen. Sie können jedoch böswillig ausgenutzt werden, daher ist es wichtig, nur Skripte aus vertrauenswürdigen Quellen zu installieren.
 ## Autor
 
-- **Dorian Herzig** - [GitHub Profil](https://github.com/DeinBenutzername)
----
+- **Dorian Herzig** - [GitHub Profil](https://github.com/DorianHerzig9)
+--
 Made with ❤️ by Dorian
