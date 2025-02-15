@@ -34,5 +34,5 @@ Violentmonkey ist eine Browsererweiterungen, die die Ausführung von Benutzerskr
 ## Autor
 
 - **Dorian Herzig** - [GitHub Profil](https://github.com/DorianHerzig9)
---
+---
 Made with ❤️ by Dorian
