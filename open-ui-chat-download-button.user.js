@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Open WebUI Chat Download Button
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      1.6
 // @description  Fügt einen Button zum Dashboard von Open WebUI hinzu, der KI-Outputs ausliest und herunterlädt
 // @description  14.2.2025, 22:14:28
 // @author       Dorian Herzig
